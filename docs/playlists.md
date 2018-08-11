@@ -9,10 +9,10 @@ If you're creating a new theme, Start a new line, and format it this way:
 Then the link to the playlist:
 
 Below is a snippet that can be copied/pasted below to add your playlist. 
--[Name of Playlist](http://www.playlisturl.com), Apple Music or Spotify, submitted by [Person](http://www.whateverlinkyouwanttoincludehere)
+- [Name of Playlist](http://www.playlisturl.com), Apple Music or Spotify, submitted by [Person](http://www.whateverlinkyouwanttoincludehere)
 
 I've tried to be as plan speak in what each section requires. Important to know, should you not know `markdown`: 
--No space between the hyphen `-` and the first character for the bullted list to appear correctly.
+- One space between the hyphen `-` and the first character for the bullted list to appear correctly.
 [Link Name](and link address) There should NOT be a space between ` ](`, or the link won't work. 
 
 -->
@@ -20,5 +20,5 @@ I've tried to be as plan speak in what each section requires. Important to know,
 
 ### Leaving a job
 
--[Last Day @ T&F](https://itunes.apple.com/us/playlist/last-day-at-t-f/pl.84a21cf7082a45e1a0c8cbb9b863df92), Apple Music, submitted by [Pat Woods](http://www.twitter.com/patwoodsdesign)
--[Last Day @ PromptWorks ⚙️⚙️⚙️](https://itunes.apple.com/us/playlist/last-day-at-promptworks/pl.u-76oN96bIldd2W), Apple Music, submitted by [Pat Woods](http://www.twitter.com/patwoodsdesign)
+- [Last Day @ T&F](https://itunes.apple.com/us/playlist/last-day-at-t-f/pl.84a21cf7082a45e1a0c8cbb9b863df92), Apple Music, submitted by [Pat Woods](http://www.twitter.com/patwoodsdesign)
+- [Last Day @ PromptWorks ⚙️⚙️⚙️](https://itunes.apple.com/us/playlist/last-day-at-promptworks/pl.u-76oN96bIldd2W), Apple Music, submitted by [Pat Woods](http://www.twitter.com/patwoodsdesign)
