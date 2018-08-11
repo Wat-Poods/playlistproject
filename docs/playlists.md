@@ -20,5 +20,5 @@ I've tried to be as plan speak in what each section requires. Important to know,
 
 ### Leaving a job
 
--[Last Day @ T&F](https://itunes.apple.com/us/playlist/last-day-at-t-f/pl.84a21cf7082a45e1a0c8cbb9b863df92), Apple Music, submitted by [Pat Woods](twitter.com/patwoodsdesign)) 
--[Last Day @ PromptWorks ⚙️⚙️⚙️](https://itunes.apple.com/us/playlist/last-day-at-promptworks/pl.u-76oN96bIldd2W), Apple Music, submitted by [Pat Woods](twitter.com/patwoodsdesign)
+-[Last Day @ T&F](https://itunes.apple.com/us/playlist/last-day-at-t-f/pl.84a21cf7082a45e1a0c8cbb9b863df92), Apple Music, submitted by [Pat Woods](http://www.twitter.com/patwoodsdesign)
+-[Last Day @ PromptWorks ⚙️⚙️⚙️](https://itunes.apple.com/us/playlist/last-day-at-promptworks/pl.u-76oN96bIldd2W), Apple Music, submitted by [Pat Woods](http://www.twitter.com/patwoodsdesign)
